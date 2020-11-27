@@ -1,5 +1,5 @@
 .innpakning{
-  width:800px;/*Innpakningens bredde*/
+  width:70%;/*Innpakningens bredde*/
   background-color:#404040; /*en mørk gråfarge*/
   margin:auto;/*like stor høyre- og venstremarg*/
   display:flex;/*angir at vi vil bruke flexbox*/
